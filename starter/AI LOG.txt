@@ -1,0 +1,6 @@
+Melisa Arias:
+I used AI as a tool to anaylze the exam rubric, each specification
+and divide the work. Also assisting me with writing the circular
+navigation logic and formating the data in PokemonService.js
+integrating some responsive UI in index.html and troubleshooting potential 
+execution errors on the terminal.
