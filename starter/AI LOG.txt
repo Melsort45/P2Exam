@@ -4,3 +4,10 @@ and divide the work. Also assisting me with writing the circular
 navigation logic and formating the data in PokemonService.js
 integrating some responsive UI in index.html and troubleshooting potential 
 execution errors on the terminal.
+
+Ana Pao:
+I used AI to see what was wrong with my laptop and why it wasn't letting me run 
+the node and npm commands in my terminal as well as to make sure it was connecting correctly 
+to the API link. I ran it one last time to check if all the categories needed where founded
+in the index as I sometimes skip lines. I also use it to find suggestions for the colors as 
+they had specific names and I wanted to know which ones existed.
